@@ -1,6 +1,6 @@
-package byt;
+package com.motorola.examples.byt;
 
-public class ExemploJ {
+public class ShowBits {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
