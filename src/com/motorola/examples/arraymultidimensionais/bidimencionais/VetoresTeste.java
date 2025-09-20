@@ -1,4 +1,4 @@
-package Arraymultidimensionais.Bidimencionais;
+package com.motorola.examples.arraymultidimensionais.bidimencionais;
 
 public class VetoresTeste {
 

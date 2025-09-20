@@ -1,3 +1,5 @@
+package com.motorola.examples;
+
 class ChkNum{
 	
 	boolean isEven(int x){
@@ -7,10 +9,9 @@ class ChkNum{
 }
 
 
-public class ExemploC {
+public class EvenNumberCheck {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		ChkNum e = new ChkNum();
 		
 		if(e.isEven(10)) System.out.println("10 is even");		

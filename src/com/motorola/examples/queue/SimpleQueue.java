@@ -1,6 +1,6 @@
-package queue;
+package com.motorola.examples.queue;
 
-class ExemploH {
+public class SimpleQueue {
 
 	char q[]; // este array contem a fila
 	int putloc, getloc; // os indices put e get

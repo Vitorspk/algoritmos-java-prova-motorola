@@ -1,5 +1,7 @@
 
-public class ExemploA {
+package com.motorola.examples;
+
+public class LoopWithReturn {
 
 	// TODO Auto-generated method stub
 

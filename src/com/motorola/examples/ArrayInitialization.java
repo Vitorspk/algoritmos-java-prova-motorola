@@ -1,5 +1,7 @@
 
-public class ExemploD {
+package com.motorola.examples;
+
+public class ArrayInitialization {
 
 	public static void main(String args[]) {
 		int sample[] = new int[10];

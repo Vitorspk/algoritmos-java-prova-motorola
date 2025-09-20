@@ -1,6 +1,6 @@
-package byt;
+package com.motorola.examples.byt;
 
-public class ExemploI {
+public class Upcase {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -10,7 +10,7 @@ public class ExemploI {
 			ch = (char) ('A' + i);
 			System.out.print(ch);
 			
-			ch = (char) ((int) ch | 32); // agora ch é maiuscula.
+			ch = (char) ((int) ch | 32); // agora ch ï¿½ maiuscula.
 			System.out.print(ch + " ");
 		}
 	}

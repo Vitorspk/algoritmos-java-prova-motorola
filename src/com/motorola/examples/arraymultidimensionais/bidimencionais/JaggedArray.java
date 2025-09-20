@@ -1,6 +1,6 @@
-package Arraymultidimensionais.Bidimencionais;
+package com.motorola.examples.arraymultidimensionais.bidimencionais;
 
-public class ExemploF {
+public class JaggedArray {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
